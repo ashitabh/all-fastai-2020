@@ -1,7 +1,7 @@
 # Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project
 ## Acute Lymphoblastic Leukemia Fast AI 2020
 
-
+```mermaid
 ---
 title: Order example
 ---
@@ -10,7 +10,7 @@ erDiagram
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 
-
+```
 
 
 
